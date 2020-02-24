@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "demo-missing-lib-resolve-client-side-solution",
+    "id": "73548fd0-ee45-43cc-95d1-fcb9657d9bbf",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/demo-missing-lib-resolve.sppkg"
+  }
+}
